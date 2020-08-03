@@ -11,6 +11,6 @@
 * https://www.themoviedb.org/tv/46952-the-blacklist/seasons
 ## And Subscribe in my youtube channel :)
 ### this link to Scripts:
-https://www.youtube.com/channel/UCL36QmtY94U4N98QpGwYtzw
+[DNS Scripts](https://www.youtube.com/channel/UCL36QmtY94U4N98QpGwYtzw)
 ### and this one for my official channel:
-https://www.youtube.com/channel/UCCbY8Sr69an0x8kpBAeoiEA
+[MestreDNS](https://www.youtube.com/channel/UCCbY8Sr69an0x8kpBAeoiEA)
