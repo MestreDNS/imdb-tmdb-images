@@ -1,6 +1,6 @@
-# Download thumbs from imdb and tmdb
+#Download thumbs from imdb and tmdb
 <br>
-## Script to python 3
+##Script to python 3
 <br>
 * Open >>>init.py<<< file
 <br><br>
