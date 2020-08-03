@@ -1,5 +1,7 @@
 #Download thumbs from imdb and tmdb
+<br>
 Script to python 3
+<br>
 * Open >>>init.py<<< file
 <br><br>
 * Insert the TMDB or IMDB link, remember that the link must contain the selected series and season.
@@ -11,7 +13,7 @@ Example of a valid link:
 * https://www.imdb.com/title/tt2741602/episodes?season=1&ref_=tt_eps_sn_1
 <br>
 * https://www.themoviedb.org/tv/46952-the-blacklist/season/1
-<br>
+<br><br>
 Example of an invalid link:
 <br>
 * https://www.imdb.com/title/tt2741602/?ref_=ttep_ep_tt
